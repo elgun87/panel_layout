@@ -1,0 +1,25 @@
+header nav {
+    float: right !important;
+}
+nav li {
+    float: left;
+}
+header p {
+    display: inline-block;
+    font-size: 20px;
+    padding-top: 5px;
+}
+header {
+    background: lightgray;
+    height: 50px;
+}
+
+.middle {
+    margin-top: 20px;
+}
+.middle_h2 {
+    box-sizing: border-box;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    border-bottom: 2px solid gray;
+}
